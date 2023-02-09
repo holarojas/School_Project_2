@@ -1,0 +1,20 @@
+/*----------------------------------------------
+// Final Projct
+// Reflection
+------------------------------------------------
+Name:	Martha Rocio Rojas Martinez
+Mail:	mrrojas-martinez@myseneca.ca
+ID:	112073218
+Date:	Dec 03rd, 2022
+----------------------------------------------*/
+
+
+I was able to practice most of the topics learned during the term. 
+Part 1 and Part 2 of the project were the easiest because some tasks were very similar to the ones I had already completed in other Workshops.
+
+Part 3 was more challenging but mostly for me, to clearly understand the instructions. During this project, I felt more confident about how to start writing the code. Now I know how to make sense of the documentation and use the theoretical knowledge I gained during the semester to understand how to use new methods or algorithms already defined in different libraries.
+
+It took me about 20 - 24 hours to finish the entire project.
+
+Thank you, professor, because, before this semester, I knew how to write basic cpp code but now, thanks to your lectures, I know the reason why I do it, why we use references or pointers when it is best to use certain functions, etc.
+The effort you took to prepare for every class is greatly appreciated. It always felt like a top-level computer science class, which, sadly, is rare to find.
